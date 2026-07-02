@@ -1,5 +1,5 @@
-import { OverviewGrid } from "@/features/dashboard/overview-grid";
+import { ExecutiveDashboard } from "@/features/dashboard/executive-dashboard";
 
 export default function DashboardPage() {
-  return <OverviewGrid />;
+  return <ExecutiveDashboard />;
 }
